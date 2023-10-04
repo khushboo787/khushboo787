@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushboo787" alt="khushboo787" /></a> </p>
 
- I'm From Bihar, India
-
 - 🔭 I’m currently working on [my Portfolio Website](https://khushboo787.github.io/)
   
 - 🌱 I’m currently learning **JAVA Backend**
