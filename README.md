@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
 
-
+  <p align="center"><img src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo787&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo787" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [my Portfolio Website](https://khushboo787.github.io/)  
 
-- 🌱 I’m currently learning **JAVA Backend**    <p align="center"><img src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg" /></p>
+- 🌱 I’m currently learning **JAVA Backend**  
 
 - 👯 I’m looking to collaborate on **with other Developers**
 
