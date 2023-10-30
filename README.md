@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushboo Kumari</h1>
+
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
 
+
   <p align="center"><img src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" /></p>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo787&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo787" /> </p>
 
