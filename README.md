@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://khushboo787.github.io/](https://khushboo787.github.io/)
   
--  ![image](https://github.com/khushboo787/khushboo787/assets/115460837/07e5be0d-3ef2-4813-bd2d-9682be1ee177)
+-  https://media.istockphoto.com/id/1162066337/vector/chat-bubble-talk-icon-vector.jpg?s=2048x2048&w=is&k=20&c=ePokd6_6Fkd9dw8OUNZBrbSR8Z0DIWdB3qWQxMi-WIs=
     Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript and DSA
 
 - 📫 How to reach me **adhirajha204@gmail.com**
