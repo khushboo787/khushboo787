@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushboo Kumari</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
-<img src= "file:///C:/Users/pc/Downloads/githublogo.gif" />
+<img src= "file:///C:/Users/pc/Downloads/githublogo.gif" alt="khushboo787" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo787&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo787" /> </p>
 
