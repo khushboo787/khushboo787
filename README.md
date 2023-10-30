@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **with other Developers**
 
-- 👨‍💻 All of my projects are available at [https://khushboo787.github.io/](https://khushboo787.github.io/)
+- 👨‍💻 All of my projects are available at [Portfoliyo](https://khushboo787.github.io/)
   
 -    Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript and DSA
 
