@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushboo Kumari</h1>
 <h3 align="center">A passionate Java Backend developer from  India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo787&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo787" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo787&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo787" /> </p>
 
@@ -12,8 +13,11 @@
 - 👯 I’m looking to collaborate on **with other Developers**
 
 - 👨‍💻 All of my projects are available at [https://khushboo787.github.io/](https://khushboo787.github.io/)
+  
+-  ![image](https://github.com/khushboo787/khushboo787/assets/115460837/07e5be0d-3ef2-4813-bd2d-9682be1ee177)
+    Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript and DSA
 
-- 📫 You can contact me at **adhirajha204@gmail.com**
+- 📫 How to reach me **adhirajha204@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XeYFxxmen0CLAkXI_kcZfY1qd0qAcbTa/view?usp=sharing](https://drive.google.com/file/d/1XeYFxxmen0CLAkXI_kcZfY1qd0qAcbTa/view?usp=sharing)
 
