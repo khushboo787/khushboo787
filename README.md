@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **with other Developers**
 
-- 👨‍💻 All of my projects are available at [Portfoliyo](https://khushboo787.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://khushboo787.github.io/)
   
 -    Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript and DSA
 
 - 📫 How to reach me **adhirajha204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XeYFxxmen0CLAkXI_kcZfY1qd0qAcbTa/view?usp=sharing](https://drive.google.com/file/d/1XeYFxxmen0CLAkXI_kcZfY1qd0qAcbTa/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XeYFxxmen0CLAkXI_kcZfY1qd0qAcbTa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
