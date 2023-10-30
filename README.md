@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushboo Kumari</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-<p align="center"><img src="https://st2.depositphotos.com/30046358/47812/v/1600/depositphotos_478129528-stock-illustration-web-developer-semi-flat-color.jpg" /></p>
+
+<p align="center"><img src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo787&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo787" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushboo787" alt="khushboo787" /></a> </p>
