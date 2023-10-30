@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushboo Kumari</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
-<img src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX56730747.jpg" />
+<img src="https://www.uh.edu/research/_images/sites/hpe-dsi/news/2020/girls-coding-academy-flyer-2020-8.5x11_uh-branding-cropped.jpg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo787&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo787" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushboo787" alt="khushboo787" /></a> </p>
