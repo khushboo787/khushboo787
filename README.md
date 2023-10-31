@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
 
-  <p align="center"><img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" /></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" /></p>
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo787&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo787" /> </p>
