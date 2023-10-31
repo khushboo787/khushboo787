@@ -1,4 +1,4 @@
-<h1 align="center" color="red" >Hi 👋, I'm Khushboo Kumari</h1>
+<h1 align="center"  >Hi 👋, I'm Khushboo Kumari</h1>
 
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
