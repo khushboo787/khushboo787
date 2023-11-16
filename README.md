@@ -1,9 +1,9 @@
-<h1 align="center"  color="red"  >Hi 👋, I'm Khushboo Kumari</h1>
+<h1 align="center"    >Hi 👋, I'm Khushboo Kumari</h1>
 
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
 
-  <p align="center"><img src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" /></p>
+  <p align="center"><img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo787&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo787" /> </p>
