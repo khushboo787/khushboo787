@@ -23,7 +23,7 @@
 
 - 📫 You can contact me at **adhirajha204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XeYFxxmen0CLAkXI_kcZfY1qd0qAcbTa/view?usp=sharing](https://drive.google.com/file/d/1XeYFxxmen0CLAkXI_kcZfY1qd0qAcbTa/view?usp=sharing](https://drive.google.com/file/d/1NN1xStY6cJ0pteXU5AYGiA3HiAnZCpbk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1NN1xStY6cJ0pteXU5AYGiA3HiAnZCpbk/view?usp=sharing]
 
 - ⚡ Fun fact **I love coding 🖊️**
 
