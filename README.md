@@ -16,6 +16,7 @@
   </a>
 </p>
 
+
 - 🔭 I’m currently working on [my Portfolio Website](https://khushboo787.github.io/)
 - 🌱 I’m currently learning **JAVA Backend**
 - 👯 I’m looking to collaborate with other developers
@@ -24,6 +25,8 @@
 - 📫 You can contact me at **adhirajha204@gmail.com**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1NN1xStY6cJ0pteXU5AYGiA3HiAnZCpbk/view?usp=sharing)
 - ⚡ Fun fact: **I love coding 🖊️**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +40,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhirajhajii" height="30" width="40" />
   </a>
 </p>
+
+
 
 ### Technologies and Tools
   
@@ -71,8 +76,13 @@
 </p>
 
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboo787&show_icons=true&theme=cobalt" alt="khushboo787" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo787&show_icons=true&theme=cobalt" alt="khushboo787" /></p>
+
+ <a href="https://github.com/khushboo787/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo787&theme=cobalt" />
+</a>
+<a href="https://github.com/khushboo787/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboo787&theme=cobalt&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <p><strong> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo787&theme=highcontrast" alt="khushboo787" /></strong></p>
