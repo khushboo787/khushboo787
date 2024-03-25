@@ -40,7 +40,7 @@
   </a>
 </p>
 
-#### Technologies and Tools
+### Technologies and Tools
   
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
