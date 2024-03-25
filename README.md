@@ -75,4 +75,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo787&show_icons=true&locale=en" alt="khushboo787" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo787&" alt="khushboo787" /></p>
+<p><strong><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo787&" alt="khushboo787" /></strong></p>
