@@ -70,9 +70,9 @@
   </a>
 </p>
 
-![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushboo787&show_icons=true&theme=highcontrast)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboo787&show_icons=true&locale=en&layout=compact" alt="khushboo787" /></p>
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboo787&show_icons=true&theme=cobalt" alt="khushboo787" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo787&show_icons=true&locale=en" alt="khushboo787" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo787&show_icons=true&theme=cobalt" alt="khushboo787" /></p>
 
-<p><strong><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo787&" alt="khushboo787" /></strong></p>
+<p><strong> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo787&theme=highcontrast" alt="khushboo787" /></strong></p>
