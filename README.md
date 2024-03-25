@@ -70,6 +70,7 @@
   </a>
 </p>
 
+[![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushboo787)](https://github.com/khushboo787/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboo787&show_icons=true&locale=en&layout=compact" alt="khushboo787" /></p>
 
