@@ -3,14 +3,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Khushboo Kumari</h1>
-<h3 align="center"> I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; dabbling with Python and Django. Obsessed with coding. Remember that there is no code faster than no code ;)  💚</h3>
+<h3 align="center">Passionate Java Backend Developer from India
+</h3>
 
-
-
-
-<h1 align="center"    >Hi 👋, I'm Khushboo Kumari</h1>
- 
-<h3 align="center">A passionate Java Backend developer from India</h3>
 
 
 
