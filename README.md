@@ -70,7 +70,7 @@
   </a>
 </p>
 
-![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushboo787&show_icons=true&bg_color=00000000)
+![Khushboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushboo787&show_icons=true&theme=highcontrast)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboo787&show_icons=true&locale=en&layout=compact" alt="khushboo787" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo787&show_icons=true&locale=en" alt="khushboo787" /></p>
