@@ -23,7 +23,7 @@
 - 👨‍💻 All of my projects are available at [https://khushboo787.github.io/](https://khushboo787.github.io/)
 - 💬 Ask me about **JAVA, Spring, Hibernate, MySQL, HTML, CSS, JavaScript, and DSA**
 - 📫 You can contact me at **adhirajha204@gmail.com**
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1OPakd_hAoojZVihlUs0GnMSvWKCLM2Vt/view)
+- 📄 Know about my experiences[resume](https://drive.google.com/file/d/1oEJYZo4yaWUTXdEn53VbDSR7_g12wGDA/view?usp=sharing)
 - ⚡ Fun fact: **I love coding 🖊️**
 
 
